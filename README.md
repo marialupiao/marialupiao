@@ -1,8 +1,8 @@
-## Hi! I'm Maria.
+## Hi! I'm Maria ✌
 ## Dev Student from Brasil
 
 - 😄 Pronouns: She/Her
-- 🌱 Learning Java
+- 👩‍💻 Learning Java
 
 <div align="center">
   <a href="https://github.com/marialupiao">
