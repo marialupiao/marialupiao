@@ -1,9 +1,9 @@
 ## Hi! I'm Maria ✌
 ## Dev Student from Brasil
 
-- 👩‍🎓 Graduating in Analysis and Systems Development @ UNIP
+- 👩‍🎓 Graduating in Systems Analysis and Development 
 - 😄 Pronouns: She/Her
-- 👩‍💻 Learning C, C++, C#, Java and Python 
+- 👩‍💻 Learning: Full Stack Java Development 
 
 <div align="center">
   <a href="https://github.com/marialupiao">
