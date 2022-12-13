@@ -1,9 +1,9 @@
 ## Hi! I'm Maria ✌
 ## Dev Student from Brasil
 
-- 👩‍🎓 Graduating in Systems Analysis and Development 
+- 👩‍🎓 Studying (3rd semester) Systems Analysis and Development
 - 😄 Pronouns: She/Her
-- 👩‍💻 Learning: Full Stack Java Development 
+- 👩‍💻 Learning: Full Stack Development 
 
 <div align="center">
   <a href="https://github.com/marialupiao">
@@ -17,7 +17,6 @@
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
           
-
 ##
 
 <img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
