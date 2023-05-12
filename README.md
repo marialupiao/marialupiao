@@ -5,6 +5,8 @@
 - 😄 Pronouns: She/Her <br>
 - 👩‍💻 Learning: Full Stack Development <br>
 </h3>
+<br>
+
 <div align="center">
   <a href="https://github.com/marialupiao">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marialupiao&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
