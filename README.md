@@ -1,10 +1,10 @@
-## Hi! I'm Maria ✌
-## Dev Student from Brasil
-
-- 👩‍🎓 Studying (3rd semester) Systems Analysis and Development
-- 😄 Pronouns: She/Her
-- 👩‍💻 Learning: Full Stack Development 
-
+<h1> Hi! I'm Maria ✌ </h1>
+<h2> Dev Student from Brasil </h2>
+<h3>
+- 👩‍🎓 Studying (3rd semester) Systems Analysis and Development <br>
+- 😄 Pronouns: She/Her <br>
+- 👩‍💻 Learning: Full Stack Development <br>
+</h3>
 <div align="center">
   <a href="https://github.com/marialupiao">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marialupiao&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
