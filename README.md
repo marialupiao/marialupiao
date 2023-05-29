@@ -1,10 +1,13 @@
 <h1> Hi! I'm Maria ✌ </h1>
-<h2> Dev Student from Brasil </h2>
+<h2> Back End Java Developer </h2>
 <h3>
 - 👩‍🎓 Studying (3rd semester) Systems Analysis and Development <br>
 - 😄 Pronouns: She/Her <br>
-- 👩‍💻 Learning: Full Stack Development <br>
 </h3>
+<br>
+<div align="left">
+ <a href="https://www.linkedin.com/in/marialupiao" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
 <br>
 
 <div align="center">
@@ -29,12 +32,7 @@
 
 
 <div> 
-  
- ##
- 
-<div align="center">
- <a href="https://www.linkedin.com/in/marialupiao" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>                                               
+                                         
            
           
           
