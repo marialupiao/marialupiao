@@ -1,7 +1,7 @@
 <h1> Hi! I'm Maria ✌ </h1>
 <h2> Back End Java Developer </h2>
 <h3>
-- 👩‍🎓 Studying (3rd semester) Systems Analysis and Development <br>
+- 👩‍🎓 Studying (4th semester) Systems Analysis and Development <br>
 - 😄 Pronouns: She/Her <br>
 </h3>
 <br>
